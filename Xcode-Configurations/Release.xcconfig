@@ -1,5 +1,0 @@
-#include "Base"
-
-VALIDATE_PRODUCT = YES
-ENABLE_NS_ASSERTIONS = NO
-WARNING_CFLAGS = -Wall -Wno-nonnull -Wno-property-attribute-mismatch -Wno-auto-import -Wno-atimport-in-framework-header
